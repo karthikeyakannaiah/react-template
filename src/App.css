@@ -1,0 +1,16 @@
+.App{
+    
+}
+.App > img {
+    position: absolute;
+    z-index: -1;
+    height: 400px;
+    width: 600px;
+}
+.App > p{
+    height: 400px;
+    width: 600px;
+    font-size: medium;
+    color: white;
+    text-align: center;
+}

@@ -1,4 +1,4 @@
-# react-template-k-app  
+# Created using react-template 
 
 ## Available Scripts
 
